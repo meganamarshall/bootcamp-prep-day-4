@@ -1,0 +1,18 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    color: salmon;
+}
+
+label {
+    display: block;
+    padding: 5px;
+}
+
+button {
+    color: white;
+    background: salmon;
+    padding: 5px;
+}
